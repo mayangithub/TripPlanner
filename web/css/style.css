@@ -1,0 +1,80 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 3, 2015, 2:59:05 PM
+    Author     : yanma
+*/
+
+html, body {
+    height: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+}
+
+div.all {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+}
+
+/* Header CSS */
+
+
+
+/* Main Content CSS */
+
+
+
+
+/* Footer CSS*/
+div.footer {
+    height: 150px;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    color: #9a9a9a;
+    vertical-align: top;
+    background-color: #f7f7f7;
+}
+
+div.contact {
+    height: 150px;
+    width: 40%;
+    margin-left: 20%;
+    margin-right: 0px;
+    text-align: left;
+    display: inline-block;
+}
+
+div.info {
+    height: 110px;
+    padding-top: 20px; 
+    padding-bottom: 20px;
+}
+
+div.info p a:link,
+div.info p a:visited,
+div.info p a:hover, 
+div.info p a:active{
+    text-decoration: none;
+    color: #9a9a9a;
+}
+
+div.api {
+    height: 150px;
+    margin-right: 20%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.imgs {
+    vertical-align: top;
+    margin-top: 59px;
+}
+
